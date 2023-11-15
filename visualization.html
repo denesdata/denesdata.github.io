@@ -7,6 +7,8 @@
 </head>
 <body>
   <div id="vis"/>
+  <div id="vis2"/>
+    Hello MCC
   <script>
     const spec = {
   "data": {"url": "https://data.csaladen.es/songs_and_popularity.csv"},
@@ -41,6 +43,7 @@
   "config": {}
 };
     vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    vegaEmbed("#vis2", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
 </body>
 </html>
