@@ -1,4 +1,4 @@
-# Untitled
+# Adding a second plot, interactions and styling
 
 _Created: 3/12/2025, 2:01:32 AM_
 
