@@ -2,7 +2,9 @@
 
 This project demonstrates how to create sophisticated, interactive data visualizations for wheat price analysis using AI-assisted development. Without writing code manually, I used Claude 3.7 Sonnet to generate a complete visualization suite that includes heatmaps, parallel coordinates plots, and an executive summary dashboard. The visualizations feature responsive design, interactive filtering, dark/light themes, and contextual information about global events affecting wheat markets.
 
-.
+## 🕹️ [Interactive data visualization](https://data.csaladen.es/ADV%202025/5/)
+
+
 A fenti gabonás vizuaizációkat teljességgel kódolás nélkül készítettem (bár kellet hozzá egy pár próbálkozás.. :sweat_smile:)
 Itt megtaláljátok az összes promptot amit használtam (`clause-sonnet-3.7`):
 
@@ -30,8 +32,12 @@ Throughout the development, several improvements were made:
 
 The final product is a comprehensive, interactive data exploration tool that allows users to analyze wheat price trends across different types, countries, and time periods while providing context through global events that impacted the market.
 
-### Screenshot 1
-![Screenshot 1](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%201.png)
+### Screenshot 1-1
+![Screenshot 1-1](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%201-1.png)
+### Screenshot 1-2
+![Screenshot 1-2](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%201-2.png)
+### Screenshot 1-3
+![Screenshot 1-3](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%201-3.png)
 .
 
 .
@@ -70,8 +76,10 @@ Key developments:
 
 The final product is a sophisticated data visualization tool that combines a heatmap/carpet plot with a parallel coordinates plot, allowing users to explore wheat price data through multiple perspectives while enjoying a visually pleasing, professionally designed interface with both light and dark themes.
 
-### Screenshot 2
-![Screenshot 2](Screenshot%202.png)
+### Screenshot 2-1
+![Screenshot 2-1](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%202-1.png)
+### Screenshot 2-2
+![Screenshot 2-2](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%202-2.png)
 .
 
 .
@@ -106,6 +114,10 @@ Key developments:
 
 The final product features a cohesive design with consistent styling across all elements, proper cross-filtering functionality, and smooth navigation between different sections of the visualization.
 
-### Screenshot 3
-![Screenshot 3](Screenshot%203.gif)
+### Screenshot 3-1
+![Screenshot 3-1](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%203-1.png)
+### Screenshot 3-2
+![Screenshot 3-2](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%203-2.png)
+### Screenshot 3-3
+![Screenshot 3-3](https://raw.githubusercontent.com/denesdata/denesdata.github.io/refs/heads/main/ADV%202025/5/Screenshot%203-3.gif)
 .
